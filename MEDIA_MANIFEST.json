@@ -1,0 +1,93 @@
+{
+  "$schema": "./MEDIA_MANIFEST.schema.json",
+  "generated": "2026-07-23",
+  "notes": "Placeholder manifest. Populate once the client confirms media authorization. During Phase 1 the site uses procedurally generated SVG placeholders with alt text stubs. Do NOT download from birchprime.rs until authorization is confirmed.",
+  "assets": [
+    {
+      "id": "brand-logo-dark",
+      "localPath": "/media/brand/birchprime-logo-dark.svg",
+      "originalUrl": "https://birchprime.rs/wp-content/uploads/2026/02/bglogomaindark-scaled.png",
+      "sourcePage": "birchprime.rs (global)",
+      "fileType": "svg",
+      "width": null,
+      "height": null,
+      "fileSize": null,
+      "product": null,
+      "altMk": "Birch Prime — лого",
+      "optimization": "PENDING",
+      "authorization": "REPLACEMENT ASSET REQUIRED",
+      "notes": "Currently rendered as a text wordmark. Replace with client-provided vector logo."
+    },
+    {
+      "id": "home-hero-birch-edge",
+      "localPath": "/media/homepage/hero-birch-edge.jpg",
+      "originalUrl": null,
+      "sourcePage": null,
+      "fileType": "jpg",
+      "width": 2400,
+      "height": 1600,
+      "fileSize": null,
+      "product": null,
+      "altMk": "Слоеви на шперплоча од бреза во макро-приказ",
+      "optimization": "PENDING",
+      "authorization": "REPLACEMENT ASSET REQUIRED",
+      "notes": "Hero currently uses a CSS material composition. Replace with authorized photograph."
+    },
+    {
+      "id": "product-ff-hero",
+      "localPath": "/media/products/formwork/ff-hero.jpg",
+      "product": "viseslojna-laminirana-glatka-oplata",
+      "altMk": "Повеќеслојна ламинирана мазна оплата F/F",
+      "authorization": "REPLACEMENT ASSET REQUIRED"
+    },
+    {
+      "id": "product-fwd1-hero",
+      "localPath": "/media/products/anti-slip/fwd1-hero.jpg",
+      "product": "laminirana-hrapava-oplata",
+      "altMk": "Ламинирана храпава оплата FWD1 — противлизгачка мрежеста површина",
+      "authorization": "REPLACEMENT ASSET REQUIRED"
+    },
+    {
+      "id": "product-uncoated-birch-hero",
+      "localPath": "/media/products/birch-plywood/uncoated-hero.jpg",
+      "product": "neoblozena-sperploca-od-bele-breze",
+      "altMk": "Необложена шперплоча од бела бреза",
+      "authorization": "REPLACEMENT ASSET REQUIRED"
+    },
+    {
+      "id": "product-yellow-premium-hero",
+      "localPath": "/media/products/formwork/yellow-premium-hero.jpg",
+      "product": "zuta-premium-oplata",
+      "altMk": "Жолта премиум оплата AA/BB",
+      "authorization": "REPLACEMENT ASSET REQUIRED"
+    },
+    {
+      "id": "product-poplar-hero",
+      "localPath": "/media/products/formwork/poplar-hero.jpg",
+      "product": "premium-oplata-od-topole",
+      "altMk": "Премиум оплата од топола",
+      "authorization": "REPLACEMENT ASSET REQUIRED"
+    },
+    {
+      "id": "industry-construction",
+      "localPath": "/media/applications/construction.jpg",
+      "product": null,
+      "altMk": "Градилиште со монтирана оплата за бетонски темели",
+      "authorization": "REPLACEMENT ASSET REQUIRED"
+    },
+    {
+      "id": "industry-transport",
+      "localPath": "/media/applications/transport.jpg",
+      "product": null,
+      "altMk": "Внатрешноста на приколка со противлизгачки под",
+      "authorization": "REPLACEMENT ASSET REQUIRED"
+    },
+    {
+      "id": "industry-furniture",
+      "localPath": "/media/applications/furniture.jpg",
+      "product": null,
+      "altMk": "Плочи од бреза во мебелско производство",
+      "authorization": "REPLACEMENT ASSET REQUIRED"
+    }
+  ]
+}
